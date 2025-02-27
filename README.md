@@ -11,7 +11,7 @@ It features a split-screen layout with a striking hero image on the left and bol
 # Technologies Used
 - HTML: For the website's structure and content.
 - CSS:For styling, layout, and responsiveness.
-
+ 
 # Design Highlights
 - Minimalistic Design: Clean and modern with a monochrome color scheme.
 - Typography Play: The word "Creativity" uses a mix of bold and outlined fonts to create visual interest.
